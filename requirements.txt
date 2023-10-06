@@ -10,3 +10,9 @@ pycrypto
 fastapi
 PyJWT
 a2wsgi
+eth-abi
+coincurve
+pycryptodome
+base58
+web3
+aiohttp
