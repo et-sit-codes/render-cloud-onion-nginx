@@ -15,4 +15,4 @@ coincurve
 pycryptodome
 base58
 web3
-aiohttp
+PySocks
